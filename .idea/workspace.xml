@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b336147e-9f79-486d-885d-0c8576c8e856" name="Changes" comment="" />
+    <list default="true" id="b336147e-9f79-486d-885d-0c8576c8e856" name="Changes" comment="&quot;Updated: Personal Projects&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1753003836248</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Updated: Personal Projects&quot;">
+      <created>1754474952833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754474952833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Updated: Personal Projects&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Updated: Personal Projects&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
